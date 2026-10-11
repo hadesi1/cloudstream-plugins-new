@@ -1,0 +1,8 @@
+{
+  "name": "CloudStream Plugins",
+  "description": "Personal CloudStream plugin repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/hadesi1/cloudstream-plugins-new/builds/plugins.json"
+  ]
+}
